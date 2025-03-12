@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+@font-face {
+    font-family: Fonte1;
+    src: url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+}
+
+/* 
+paleta de cores
+
+verde #49a09d
+lilas #5f2c82
+
+ font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+
+*/
+
+* {
+padding: 0px;
+margin: 0px;
+font-family: "Funnel Display", sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
+}
+
+main {
+    background-image: url('../imagens/img-peq.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+
+
