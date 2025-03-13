@@ -30,11 +30,79 @@ font-weight: normal;
 font-style: normal;
 }
 
-main {
-    background-image: url('../imagens/img-peq.jpg');
-    background-repeat: no-repeat;
-   background-size: cover;
+body {
+    width: 95vw;
+    height: 95vh;
+    background-image: linear-gradient(to top, white,blue);
 }
+
+main {
+  width: 350px;
+  height: 300px;
+    margin: auto;
+    display: block;
+    background-color: white;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 20px;
+      
+}
+
+section#login {
+  
+}
+
+nav#formulario {
+   padding: 10px;
+}
+
+nav#imagem {
+  
+  
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    display: block;
+    margin-left: 350px;
+    margin-bottom: -300px;
+}
+
+h1 {
+  margin: 10px;
+  text-align: center;
+  font-size: 2em;
+}
+
+p {
+ 
+ text-indent: 10px;
+}
+
+form {
+
+}
+
+input {
+    margin: 10px;
+    padding: 2px;
+    
+}
+
+input#Iemail {
+
+}
+
+input#Isenha {
+ 
+    
+}
+
+input#Ienviar {
+    
+}
+
 
 
 
