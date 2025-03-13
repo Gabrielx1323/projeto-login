@@ -33,11 +33,11 @@ font-style: normal;
 body {
     width: 95vw;
     height: 95vh;
-    background-image: linear-gradient(to top, white,blue);
+    background-image: linear-gradient(to top, rgb(173, 172, 172),rgb(126, 4, 126));
 }
 
 main {
-  width: 350px;
+  width: 330px;
   height: 300px;
     margin: auto;
     display: block;
@@ -53,7 +53,7 @@ section#login {
 }
 
 nav#formulario {
-   padding: 10px;
+   padding: 5px;
 }
 
 nav#imagem {
@@ -62,10 +62,10 @@ nav#imagem {
 }
 
 img {
-    width: 200px;
+    width: 180px;
     height: 300px;
     display: block;
-    margin-left: 350px;
+    margin-left: 320px;
     margin-bottom: -300px;
 }
 
