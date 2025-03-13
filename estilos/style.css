@@ -31,25 +31,31 @@ font-style: normal;
 }
 
 body {
-    width: 95vw;
-    height: 95vh;
-    background-image: linear-gradient(to top, rgb(173, 172, 172),rgb(126, 4, 126));
+    width: 97vw;
+    height: 100vh;
+    background-image: linear-gradient(to top, rgb(255, 255, 255),rgb(0, 0, 0));
 }
 
 main {
   width: 330px;
-  height: 300px;
-    margin: auto;
-    display: block;
-    background-color: white;
-    position: relative;
-    margin-top: 100px;
-    margin-left: 20px;
-      
+  height: 299px;
+  margin: auto;
+  margin-right: 225px;
+  margin-top: 200px;
+  display: block;
+  background-color: white;
+  position: relative;
+  border-radius: 10px;
+    
 }
 
 section#login {
   
+  
+}
+
+nav {
+
 }
 
 nav#formulario {
@@ -67,6 +73,8 @@ img {
     display: block;
     margin-left: 320px;
     margin-bottom: -300px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px ;
 }
 
 h1 {
