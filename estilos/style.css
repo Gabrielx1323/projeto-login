@@ -37,20 +37,20 @@ body {
 }
 
 main {
-  width: 330px;
-  height: 299px;
-  margin: auto;
-  margin-right: 225px;
-  margin-top: 200px;
-  display: block;
-  background-color: white;
-  position: relative;
-  border-radius: 10px;
+
+  
     
 }
 
 section#login {
-  
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  margin: auto;
+  display: block;
+  position: relative;
+  border-radius: 10px;
+  margin-top: 300px;
   
 }
 
@@ -59,7 +59,8 @@ nav {
 }
 
 nav#formulario {
-   padding: 5px;
+   padding: 10px;
+   margin-top: 10px;
 }
 
 nav#imagem {
@@ -68,13 +69,11 @@ nav#imagem {
 }
 
 img {
-    width: 180px;
-    height: 300px;
-    display: block;
-    margin-left: 320px;
-    margin-bottom: -300px;
-    border-bottom-right-radius: 10px;
-    border-top-right-radius: 10px ;
+    width: 300px;
+    height: 350px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+    margin-top: -250px;
 }
 
 h1 {
