@@ -58,3 +58,20 @@ section  > nav#formulario {
     display: block;
     padding: 10px;
 }
+
+nav#formulario > h1 {
+ text-align: center;
+ margin-bottom: 10px;
+}
+
+nav#formulario > p {
+  font-size: 0.8em;
+}
+
+a {
+    color: black;
+}
+
+a ::hover {
+    color: black;
+}
